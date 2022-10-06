@@ -15,6 +15,8 @@
 			<?php if ($this->session->has_userdata('message_login_error')) { ?>
 				<div class="alert alert-danger text-center" role="alert">
 					<?= $this->session->userdata('message_login_error') ?>
+					<br>
+					HINT : Admin pass
 				</div>
 			<?php } ?>
 
