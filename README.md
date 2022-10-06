@@ -15,3 +15,7 @@ Studi kasus sistem booking untuk bengkel
 - Setting config di **application/config/config.php** terutama **base_url**
 - untuk login gunakan username : **Admin** dan password : **pass**
     
+## Image
+
+[![Img 1](https://i.imgur.com/yxPahYZ.png)](https://imgur.com/a/VTz8blw)
+
